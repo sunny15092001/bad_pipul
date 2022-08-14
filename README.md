@@ -12,7 +12,7 @@
     <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/stars/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/unofficialaddaforuh"><img src="(https://telegra.ph/file/293dedac23a73f2e03147.jpg)"></a></p>
+<p align="center"><a href="https://t.me/unofficialaddaforuh"><img src="https://telegra.ph/file/293dedac23a73f2e03147.jpg"></a></p>
 <p align="center">[
 ](https://telegra.ph/file/293dedac23a73f2e03147.jpg)
 
