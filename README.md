@@ -1,5 +1,5 @@
 
-<h2 align="centre">Codexun Music Bot</h2>
+<h2 align="centre"> •ᴮᴬᴰʙᴏʏツMusic Bot</h2>
 
 <p align="center">
     <br><b>Telegram music bot which can helps to play music on groups voice chat.</b><br>
@@ -12,14 +12,15 @@
     <a href="https://github.com/PavanMagar/CodexunMusicBot"> <img src="https://img.shields.io/github/stars/PavanMagar/CodexunMusicBot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/codexun"><img src="https://telegra.ph/file/5a49680de5759f290ad8d.jpg"></a></p>
-<p align="center">
+<p align="center"><a href="https://t.me/unofficialaddaforuh"><img src="(https://telegra.ph/file/293dedac23a73f2e03147.jpg)"></a></p>
+<p align="center">[
+](https://telegra.ph/file/293dedac23a73f2e03147.jpg)
 
 <p align="center">
     <br><b>Kangers Welcome You!</b><br>
 </p>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PavanMagar&repo=CodexunMusicBot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=sunny15092001&repo=bad_pipul&theme=dark)
 
 
 <h3>
@@ -74,28 +75,13 @@ If you didn't know how to do this
 Then simply contact us at support group.
 # suggesting to select Europe server for lag-free music.
 ```
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PavanMagar/CodexunMusicBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>  
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sunny15092001/bad_pipul"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>  
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UGF2YW5NYWdhci9Db2RleHVuTXVzaWNCb3QgbWFpbg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 
 ## Get Support
 
-<a href="https://t.me/TeamCodexun"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/codexun"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/unofficialaddaforuh"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/unofficialaddaforuh"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-## Credits
-
-</details>
-
-<details>
-<summary><b> Click to see credits </b></summary>
-<br>
- 
-- Callmusic 
-- VCPlayerBot
-- Veez
-- TGVCBot
-- Yukki
-- PyTgCalls
-
-~ Some pirro's thinking that it's a kang of [YukkiMusicBot](https://t.me/TheYukki) for their kind information, This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork YukkiMusicBot wont exist. YukkiMusicBot is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of some users.
+##
